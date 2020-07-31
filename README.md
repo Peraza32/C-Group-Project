@@ -12,10 +12,15 @@ Possible branch additions: deploy, refactor, It's truly necessary?, don't know h
 
 ### Description of the current project:
 *Language:* C++
+
 *Version:* 17
+
 *Name:*
+
 *Description*
+
 *Percentage of completation:* 0%
+
 
 ### History of Projects
 *Numbers of projects so far:* 0
